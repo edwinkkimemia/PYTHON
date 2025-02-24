@@ -8,3 +8,5 @@ else:
     print("It’s a cool day! ❄️")
 print("Done")
 print("This is the end of the program")
+print("This is the end of the program")
+print("This is the end of the program")
